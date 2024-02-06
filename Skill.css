@@ -1,0 +1,23 @@
+.right2{
+    background-color: red;
+}
+h1{
+    font-size: 3rem;
+    margin: 50px 50px 10px 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Skills1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center ;
+}
+#Skills3{
+    margin-left: 50px;
+    width: 155px;
+    color: lavender;
+}
+.left2{
+    width: 900px;
+    font-size: x-large;
+    margin: 25px;
+}

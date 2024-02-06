@@ -1,0 +1,41 @@
+h1{
+    font-size: 3rem;
+    margin: 50px 50px 10px 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#Con1{
+    margin-left: 55px;
+    width: 235px;
+    color: lavender;
+}
+.divCon1{
+    margin-top:100px;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 30px;
+}
+.logo1{
+    margin: 30px;
+    padding: 5px;
+    background-color:rgb(255, 255, 255);
+    border: 1px solid blueviolet;
+    border-radius: 50%;
+    width: 50px;
+    height: 30px;
+}
+.Box{
+    border: 3px solid blueviolet;
+    border-radius: 10%;
+    margin-top: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height:200px;
+    width: 250px;
+    background-color: white;
+    color: blueviolet;  
+    font-size:large;
+}
+.hr5{
+    width: 100px;
+}
